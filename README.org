@@ -1,4 +1,4 @@
-A Homebrew tap with various stuff by me that didn't make it to core.
+A Homebrew tap with various stuff I found me that didn't make it to core.
 
 To use:
 
