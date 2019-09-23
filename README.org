@@ -1,0 +1,13 @@
+A Homebrew tap with various stuff by me that didn't make it to core.
+
+To use:
+
+#+BEGIN_SRC sh
+brew tap filalex77/tap
+#+END_SRC
+
+Things included:
+
+- =podcast= - command-line podcast player
+
+No warranty, WTFPL.
